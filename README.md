@@ -31,9 +31,9 @@ Code presented here is a merge of the following sources:
 TODOs
 ----
 
-[] Handle commands such as "up 70%"
-[] Real http request management
-[] Accept status set by an external source (for initialization for instance)
+- [ ] Handle commands such as "up 70%"
+- [ ] Real http request management
+- [ ] Accept status set by an external source (for initialization for instance)
 
 License
 -------
